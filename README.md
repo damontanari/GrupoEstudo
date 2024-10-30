@@ -24,3 +24,7 @@ Python para automação e análise.
 SQL para gerenciamento de dados.
 JavaScript para desenvolvimento web.
 Power BI e DAX para visualização e análise de dados.
+
+`Adicione os nomes abaixo` ↓
+
+`Daniel Montanari`
