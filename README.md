@@ -28,3 +28,4 @@ Power BI e DAX para visualização e análise de dados.
 `Adicione os nomes abaixo` ↓
 
 `Daniel Montanari`
+`Richard Wendel Batista`
