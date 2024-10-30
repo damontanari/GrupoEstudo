@@ -1,0 +1,44 @@
+version: '3.9'
+services:
+
+  postgres:
+    container_name: postgres
+    hostname: postgres
+    image: postgres
+    env_file:
+      - .env
+    environment:
+      DATABASE_HOST: ${DB_HOST}
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+    ports:
+      - "${DB_PORT}:5432"
+    volumes:
+      - dbinit:/docker-entrypoint-initdb.d
+      - dbdata:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  # postgres2:
+  #   container_name: postgres2
+  #   hostname: postgres2
+  #   image: postgres
+  #   env_file:
+  #     - .env
+  #   environment:
+  #     DATABASE_HOST: ${DB_HOST}
+  #     POSTGRES_DB: danieldb
+  #     POSTGRES_USER: ${DB_USER}
+  #     POSTGRES_PASSWORD: ${DB_PASS}
+  #   ports:
+  #     - "56432:5432"
+  #   volumes:
+  #     - dbinit2:/docker-entrypoint-initdb.d
+  #     - dbdata2:/var/lib/postgresql/data
+  #   restart: unless-stopped
+
+volumes:
+  dbinit:
+  dbdata:
+  # dbinit2:
+  # dbdata2:
