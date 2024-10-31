@@ -1,0 +1,57 @@
+"id","data_venda","id_cliente","nome_cliente","id_vendedor","nome_vendedor","produto","categoria","quantidade","preco_unitario","valor_total","forma_pagamento","status","data_criacao","data_att"
+28,2024-06-30,20,Tânia Almeida,101,Vendedor A,Mochila para Notebook,Acessórios,3,200.00,600.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+52,2024-04-25,20,Tânia Almeida,101,Vendedor A,Teclado T,Acessórios,5,200.00,1000.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+27,2024-05-20,19,Sofia Costa,101,Vendedor A,Laptop para Games,Notebooks,1,7000.00,7000.00,Transferência,Concluída,2024-10-24,2024-10-24
+7,2024-01-15,6,Fernanda Pereira,101,Vendedor A,Smartphone ABC,Celulares,1,1100.00,1100.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+14,2024-07-20,6,Fernanda Pereira,101,Vendedor A,Teclado Sem Fio,Acessórios,8,150.00,1200.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+38,2022-06-05,6,Fernanda Pereira,101,Vendedor A,Teclado F,Acessórios,5,150.00,750.00,Transferência,Concluída,2024-10-24,2024-10-24
+1,2023-10-01,1,Alice Silva,101,Vendedor A,Smartphone XYZ,Celulares,2,1200.00,2400.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+4,2023-11-02,1,Alice Silva,101,Vendedor A,Fone de Ouvido Bluetooth,Acessórios,5,150.00,750.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+33,2022-01-15,1,Alice Silva,101,Vendedor A,Smartphone A,Celulares,1,1200.00,1200.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+29,2024-07-15,21,Ursula Martins,102,Vendedor B,SSD 500GB,Armazenamento,2,500.00,1000.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+53,2024-05-30,21,Ursula Martins,102,Vendedor B,Câmera U,Câmeras,1,2500.00,2500.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+26,2024-04-25,18,Rafael Soares,102,Vendedor B,Teclado Ergonomico,Acessórios,4,350.00,1400.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+50,2024-02-20,18,Rafael Soares,102,Vendedor B,Laptop R,Notebooks,1,4500.00,4500.00,Transferência,Concluída,2024-10-24,2024-10-24
+2,2023-10-05,2,Bob Santos,102,Vendedor B,Notebook ABC,Notebooks,1,3500.00,3500.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+10,2024-03-10,2,Bob Santos,102,Vendedor B,Câmera Digital,Câmeras,1,2200.00,2200.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+34,2022-02-10,2,Bob Santos,102,Vendedor B,Notebook B,Notebooks,1,3500.00,3500.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+32,2024-09-25,24,Xavier Santos,103,Vendedor C,Câmera de Segurança,Câmeras,1,900.00,900.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+30,2024-08-01,22,Vinícius Silva,103,Vendedor C,Impressora Multifuncional,Impressoras,1,1200.00,1200.00,Transferência,Concluída,2024-10-24,2024-10-24
+54,2024-06-18,22,Vinícius Silva,103,Vendedor C,Impressora V,Impressoras,1,1800.00,1800.00,Transferência,Concluída,2024-10-24,2024-10-24
+25,2024-03-15,17,Quiteria Mendes,103,Vendedor C,Carregador Solar,Acessórios,5,100.00,500.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+49,2024-01-10,17,Quiteria Mendes,103,Vendedor C,Smartwatch Q,Acessórios,2,800.00,1600.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+24,2024-02-10,16,Patrícia Lima,103,Vendedor C,"Monitor 32""",Monitores,1,2000.00,2000.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+48,2023-08-30,16,Patrícia Lima,103,Vendedor C,Mouse P,Acessórios,10,100.00,1000.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+23,2024-01-19,15,Otávio Gomes,103,Vendedor C,Router Mesh,Acessórios,2,1200.00,2400.00,Transferência,Concluída,2024-10-24,2024-10-24
+47,2023-07-25,15,Otávio Gomes,103,Vendedor C,Monitor O,Monitores,1,1500.00,1500.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+22,2024-01-05,14,Nina Almeida,103,Vendedor C,Smartphone 5G,Celulares,4,1500.00,6000.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+46,2023-06-10,14,Nina Almeida,103,Vendedor C,Caixa de Som N,Acessórios,4,300.00,1200.00,Transferência,Concluída,2024-10-24,2024-10-24
+19,2023-11-22,11,Kleber Dias,103,Vendedor C,HD Externo 1TB,Armazenamento,5,400.00,2000.00,Transferência,Concluída,2024-10-24,2024-10-24
+43,2023-03-30,11,Kleber Dias,103,Vendedor C,SSD K,Armazenamento,1,500.00,500.00,Transferência,Concluída,2024-10-24,2024-10-24
+42,2023-02-14,10,Juliana Reis,103,Vendedor C,Notebook J,Notebooks,1,4000.00,4000.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+3,2023-10-10,3,Charlie Oliveira,103,Vendedor C,Computador Gamer 5000,Computadores,1,5000.00,5000.00,Transferência,Concluída,2024-10-24,2024-10-24
+11,2024-04-01,3,Charlie Oliveira,103,Vendedor C,Roteador Wi-Fi,Acessórios,4,200.00,800.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+35,2022-03-25,3,Charlie Oliveira,103,Vendedor C,Tablet C,Tablets,2,800.00,1600.00,Transferência,Concluída,2024-10-24,2024-10-24
+21,2023-12-28,13,Marcelo Ferreira,104,Vendedor D,Console de Videogame,Jogos,1,2500.00,2500.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+45,2023-05-15,13,Marcelo Ferreira,104,Vendedor D,Câmera M,Câmeras,1,2200.00,2200.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+18,2023-11-05,10,Juliana Reis,104,Vendedor D,Câmera Instantânea,Câmeras,1,800.00,800.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+9,2024-02-05,8,Helena Almeida,104,Vendedor D,Impressora 3D,Impressoras,1,2500.00,2500.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+16,2024-09-30,8,Helena Almeida,104,Vendedor D,Desktop Office,Computadores,1,4000.00,4000.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+40,2022-08-25,8,Helena Almeida,104,Vendedor D,Câmera H,Câmeras,1,2000.00,2000.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+15,2024-08-25,7,Gabriel Rocha,104,Vendedor D,Smartwatch,Acessórios,3,500.00,1500.00,Transferência,Concluída,2024-10-24,2024-10-24
+39,2022-07-30,7,Gabriel Rocha,104,Vendedor D,Impressora G,Impressoras,1,1200.00,1200.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+5,2023-11-15,4,Daniela Costa,104,Vendedor D,"Monitor 24""",Monitores,3,800.00,2400.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+12,2024-05-12,4,Daniela Costa,104,Vendedor D,"Monitor Curvo 27""",Monitores,2,1200.00,2400.00,Transferência,Concluída,2024-10-24,2024-10-24
+36,2022-04-20,4,Daniela Costa,104,Vendedor D,Monitor D,Monitores,1,1000.00,1000.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+56,2024-08-25,24,Xavier Santos,105,Vendedor E,SSD X,Armazenamento,2,600.00,1200.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+31,2024-09-10,23,Wanda Oliveira,105,Vendedor E,Conjunto de Cabos USB,Acessórios,10,50.00,500.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+55,2024-07-20,23,Wanda Oliveira,105,Vendedor E,Monitor W,Monitores,1,2000.00,2000.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+51,2024-03-15,19,Sofia Costa,105,Vendedor E,HD Externo S,Armazenamento,2,400.00,800.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+20,2023-12-12,12,Lúcia Santos,105,Vendedor E,Caixa de Som Bluetooth,Acessórios,2,300.00,600.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+44,2023-04-05,12,Lúcia Santos,105,Vendedor E,Roteador L,Acessórios,3,250.00,750.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+17,2023-10-15,9,Igor Martins,105,Vendedor E,Tablet Pro,Tablets,3,1200.00,3600.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+41,2023-01-20,9,Igor Martins,105,Vendedor E,Smartphone I,Celulares,2,1300.00,2600.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+8,2024-01-28,7,Gabriel Rocha,105,Vendedor E,Laptop XYZ,Notebooks,2,4500.00,9000.00,Transferência,Concluída,2024-10-24,2024-10-24
+6,2023-12-20,5,Eduardo Lima,105,Vendedor E,Teclado Mecânico,Acessórios,10,300.00,3000.00,Dinheiro,Concluída,2024-10-24,2024-10-24
+13,2024-06-18,5,Eduardo Lima,105,Vendedor E,Laptop Gamer,Notebooks,1,6000.00,6000.00,Cartão de Crédito,Concluída,2024-10-24,2024-10-24
+37,2022-05-18,5,Eduardo Lima,105,Vendedor E,Fone de Ouvido E,Acessórios,3,300.00,900.00,Dinheiro,Concluída,2024-10-24,2024-10-24
